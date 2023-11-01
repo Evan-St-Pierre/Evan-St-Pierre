@@ -1,4 +1,6 @@
-# Evan St-Pierre
+# Hi There 👋
+
+# About me
 I'm Evan from Canada, I love working with computers and coding.
 
 ## Skills and Experience
