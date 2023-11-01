@@ -17,4 +17,4 @@ I'm Evan from Canada, I love working with computers and coding.
 </p>
 
 ## Examples of Work
-<img src="https://github.com/Evan-St-Pierre/TEJ3M-Unit2-07/blob/main/diagram.png?raw=true)https://github.com/Evan-St-Pierre/TEJ3M-Unit2-07/blob/main/diagram.png?raw=true" width="512" >
+<img src="https://github.com/Evan-St-Pierre/TEJ3M-Unit2-07/blob/main/diagram.png?raw=true)https://github.com/Evan-St-Pierre/TEJ3M-Unit2-07/blob/main/diagram.png?raw=true" width="256"> <img src="https://github.com/Evan-St-Pierre/TEJ3M-Unit2-04/blob/main/diagram.png?raw=true)https://github.com/Evan-St-Pierre/TEJ3M-Unit2-04/blob/main/diagram.png?raw=true" width="256">
