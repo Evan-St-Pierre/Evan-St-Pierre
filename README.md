@@ -5,4 +5,4 @@ I'm Evan from Canada, I love working with computers and coding.
 
 
 ## Examples of Work
-<img src="" width="512" >
+<img src="https://github.com/Evan-St-Pierre/TEJ3M-Unit2-07/blob/main/diagram.png?raw=true)https://github.com/Evan-St-Pierre/TEJ3M-Unit2-07/blob/main/diagram.png?raw=true" width="512" >
