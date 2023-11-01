@@ -1,7 +1,7 @@
 # Hi There 👋
 
 # About me
-I'm Evan from Canada, I love working with computers and coding.
+I'm Evan from Canada, I love working with computers and coding. I have worked with a Raspberry Pi and Arduinos.
 
 ## Skills and Experience
 <p>
